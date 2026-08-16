@@ -79,4 +79,3 @@ The notebook closes with a one-page dashboard combining KPIs (total repos, % act
 
 ---
 
-*Every chart in this notebook uses a dark GitHub-style theme (`#0d1117`) and matplotlib only — no HTML, no Plotly. All findings are drawn directly from executed notebook output.*
